@@ -1,2 +1,2 @@
 # new-student
-just for learning purpose
+just for learning purpose...
